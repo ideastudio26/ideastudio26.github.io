@@ -1,47 +1,10 @@
 [
   {
-    "title": "IDEA Runner - لعبتنا الأولى",
-    "category": "ألعاب",
-    "tags": [
-      "جديد",
-      "ألعاب"
-    ],
-    "link": "#"
-  },
-  {
-    "title": "IDEA Notes - تطبيق الملاحظات",
-    "category": "تطبيقات",
-    "tags": [
-      "جديد",
-      "تطبيقات"
-    ],
-    "link": "#"
-  },
-  {
-    "title": "PUBG Mobile - نسخة IDEA",
-    "category": "ألعاب",
-    "tags": [
-      "ألعاب"
-    ],
-    "link": "#"
-  },
-  {
-    "title": "Life Is Strange - إصدار IDEA",
-    "category": "ألعاب",
-    "tags": [
-      "ألعاب"
-    ],
-    "link": "#"
-  },
-  {
     "title": "تطبيق مخيمي - لإدارة مخيمات النزوح",
     "category": "تطبيقات",
-    "tags": [
-      "جديد",
-      "تطبيقات",
-      "أندرويد"
-    ],
+    "tags": ["جديد", "تطبيقات", "أندرويد"],
     "link": "https://expo.dev/artifacts/eas/OjfXSmy75UcmxtfS1vmU2Ylwqlgr6ECFv7pNlwCeAtk.apk",
+    "image": "makhimi-icon.png",
     "description": "تطبيق يسهل على إدارة كل مخيم داخل قطاع غزة وصناعة باركود مخصص لكل نازح والاعتماد عليه في التوزيع.",
     "version": "1.0.0"
   }
